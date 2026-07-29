@@ -1,0 +1,28 @@
+[project]
+name = "ticket-router-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncpg>=0.31.0",
+    "fastapi>=0.140.13",
+    "langchain-google-genai>=4.3.2",
+    "pydantic>=2.13.4",
+    "pydantic-settings>=2.14.2",
+    "qdrant-client>=1.18.0",
+    "sqlalchemy>=2.0.51",
+    "uvicorn>=0.51.0",
+]
+
+[dependency-groups]
+dev = [
+    "aiosqlite>=0.22.1",
+    "httpx>=0.28.1",
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.0",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"

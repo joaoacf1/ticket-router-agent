@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local Environment Variables
+.env
+
+# Logs and Temp files
+*.log
+generator_run.log
+
+# Testing / Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS specific
+.DS_Store
+Thumbs.db

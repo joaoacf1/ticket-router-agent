@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "titulo": "Falha no carregamento de imagens na galeria",
+    "descricao": "As imagens que eu upei para a galeria do produto não estão aparecendo. Fica só um ícone de imagem quebrada. Preciso que isso seja corrigido.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 2,
+    "titulo": "API de integração com ERP não funciona",
+    "descricao": "A API de integração com nosso sistema ERP parou de funcionar do nada. Os dados não estão sendo sincronizados, e isso está impactando toda a nossa operação. Já verifiquei as credenciais e está tudo certo.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 3,
+    "titulo": "Problema com o agendamento de webinars",
+    "descricao": "A ferramenta de webinars não está permitindo agendar novos eventos. Fica travando na hora de definir a data e hora.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 4,
+    "titulo": "Preciso de informações sobre o suporte técnico",
+    "descricao": "Queria saber qual o horário de atendimento do suporte e quais os canais disponíveis para contato.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 5,
+    "titulo": "Não recebi a nota fiscal do meu serviço",
+    "descricao": "Paguei a fatura, mas a nota fiscal ainda não chegou no meu email. Preciso dela para a contabilidade da empresa.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 6,
+    "titulo": "Minha conta foi bloqueada, preciso de ajuda",
+    "descricao": "Minha conta foi bloqueada e não sei o motivo. Não consigo acessar nada. Preciso que desbloqueiem para eu poder continuar usando o serviço.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 7,
+    "titulo": "Erro ao subir criativos para plataforma de anúncios",
+    "descricao": "Estou tentando subir novos criativos para as campanhas e o sistema não aceita. Dá um erro genérico. Não consigo atualizar as peças publicitárias. É um impedimento.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 8,
+    "titulo": "Problema com a autenticação via Google",
+    "descricao": "Usuários estão reportando que não conseguem mais fazer login usando a conta do Google. Clicam no botão e não acontece nada. Precisa ser corrigido pra ontem.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 9,
+    "titulo": "Solicitação de comprovante de pagamento",
+    "descricao": "Preciso de um comprovante de pagamento da minha última fatura. Onde posso baixar isso? Não encontrei no meu painel.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 10,
+    "titulo": "Onde encontro a fatura do meu serviço?",
+    "descricao": "Preciso da segunda via da minha fatura do mês passado. Onde posso baixar isso na minha conta?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 11,
+    "titulo": "Erro na atualização de perfil do usuário",
+    "descricao": "Usuários estão reclamando que não conseguem atualizar seus dados de perfil, como endereço e telefone. O sistema dá um erro ao salvar. Precisa de uma correção urgente.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 12,
+    "titulo": "Dúvida sobre o período de teste gratuito",
+    "descricao": "Estou usando o período de teste gratuito e gostaria de saber quando ele termina e se serei cobrado automaticamente depois. Não quero surpresas.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 13,
+    "titulo": "Cliente com dificuldade de pagar fatura via app",
+    "descricao": "Um cliente ligou super frustrado porque não consegue pagar a fatura pelo aplicativo. Ele diz que o botão de pagamento não funciona e não aparece as opções de cartão. Precisa de ajuda para orientar ele.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 14,
+    "titulo": "Relatório de campanha de email com dados inconsistentes",
+    "descricao": "O relatório de desempenho da minha última campanha de email está mostrando taxas de abertura e cliques muito baixas, o que não faz sentido. Parece que os dados estão errados.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 15,
+    "titulo": "Feature de exportação de dados não funciona",
+    "descricao": "Preciso exportar os dados dos meus clientes, mas o botão de exportar não faz nada. Clico e não acontece nada, nem baixa arquivo nem dá erro. Isso é um problema sério pra mim.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 16,
+    "titulo": "Discrepância entre preço do site e cobrança real",
+    "descricao": "O preço de um produto no site está diferente do valor que aparece na hora de finalizar a compra e na fatura. Isso está gerando confusão nos clientes e reclamações no suporte. Parece que a página de vendas não está atualizada com o sistema de cobrança.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 17,
+    "titulo": "Problema com o cache da aplicação",
+    "descricao": "As mudanças que faço no sistema não aparecem imediatamente, só depois de um tempo ou limpando o cache do navegador. É como se ele não atualizasse.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 18,
+    "titulo": "Não consigo baixar a segunda via da fatura",
+    "descricao": "Preciso da segunda via da fatura de dezembro para minha contabilidade. O sistema não está permitindo o download.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 19,
+    "titulo": "Onde encontro o tutorial para iniciantes?",
+    "descricao": "Sou novo na plataforma e queria um guia rápido pra começar a usar. Não achei um tutorial completo para iniciantes.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 20,
+    "titulo": "Problema com o teste A/B de uma página",
+    "descricao": "O teste A/B que configurei para a home page não está rodando corretamente. Não vejo os resultados e parece que as variações não estão sendo exibidas para os usuários. Não consigo otimizar.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 21,
+    "titulo": "Alteração de plano de assinatura",
+    "descricao": "Gostaria de mudar meu plano de assinatura para um mais barato. Como faço para fazer o downgrade? Quais são os valores?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 22,
+    "titulo": "Campanha de email marketing travando o servidor",
+    "descricao": "Toda vez que disparamos uma campanha de email marketing grande, o servidor fica lentíssimo e até cai. Os usuários reclamam que o site não carrega. Precisamos resolver a questão da performance do servidor para as campanhas.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 23,
+    "titulo": "Problema com cupom de desconto",
+    "descricao": "Tentei usar um cupom de desconto na minha compra, mas ele não funcionou. O valor não foi aplicado. O cupom ainda é válido, está na promoção.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 24,
+    "titulo": "Ferramenta de A/B testing não está registrando resultados",
+    "descricao": "Configurei um teste A/B para uma página, mas a ferramenta não está mostrando nenhum resultado. Não consigo saber qual versão está performando melhor.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 25,
+    "titulo": "Problema com integração de CRM e feedback do cliente",
+    "descricao": "A integração com o CRM está falhando, não consigo ver os dados dos leads que o marketing gera, e o pior é que os clientes estão reclamando muito de não ter retorno. O suporte está sobrecarregado. Precisamos de uma solução que ajude a todos.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 26,
+    "titulo": "Relatório de vendas com dados inconsistentes",
+    "descricao": "O relatório de vendas que eu gero está mostrando valores errados. Os totais não batem com o que vejo no sistema de faturamento. Parece que a base de dados não está sincronizada direito ou tem algum erro no cálculo.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 27,
+    "titulo": "Histórico de pagamentos incompleto",
+    "descricao": "Meu histórico de pagamentos no sistema está incompleto, faltam algumas faturas antigas. Preciso de todas elas para a contabilidade. Onde consigo?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 28,
+    "titulo": "Dúvida sobre o cancelamento da assinatura",
+    "descricao": "Queria saber como faço para cancelar minha assinatura se eu precisar. Qual o processo?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 29,
+    "titulo": "Dúvida sobre a renovação automática da assinatura",
+    "descricao": "Minha assinatura vai renovar no próximo mês e gostaria de saber se posso desativar a renovação automática. Não quero ser cobrado sem aviso.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 30,
+    "titulo": "Pagamento agendado não foi processado",
+    "descricao": "Agendei um pagamento para o dia 10, mas o valor não foi debitado e a fatura continua em aberto. O que aconteceu?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 31,
+    "titulo": "Disparos de e-mail marketing com atraso",
+    "descricao": "Os e-mails das campanhas estão sendo disparados com horas de atraso, ou nem estão sendo enviados. Isso afeta o timing das promoções. Preciso de agilidade nos envios.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 32,
+    "titulo": "Ferramenta de SEO não está atualizando palavras-chave",
+    "descricao": "A ferramenta de SEO que usamos não está atualizando as posições das palavras-chave. Já faz uns dias que está parada e não consigo monitorar nosso desempenho.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 33,
+    "titulo": "Integração com ferramenta de chat não funciona",
+    "descricao": "A integração que fizemos com a ferramenta de chat X não está exibindo o widget no site. Os clientes não conseguem falar conosco. Precisamos resolver isso para o suporte.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 34,
+    "titulo": "Cobrança duplicada na minha conta",
+    "descricao": "Recebi duas cobranças pelo mesmo serviço neste mês. Parece que foi duplicado. Podem verificar e estornar uma delas, por favor?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 35,
+    "titulo": "Dúvida sobre faturamento para pessoa jurídica",
+    "descricao": "Minha empresa é pessoa jurídica e queria saber se o processo de faturamento é diferente. Como faço para emitir em nome da empresa?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 36,
+    "titulo": "Conteúdo do blog não aparece no feed RSS",
+    "descricao": "Os posts mais recentes do nosso blog não estão aparecendo no feed RSS. Nossos leitores não estão recebendo as atualizações.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 37,
+    "titulo": "Recebi um e-mail de spam da empresa",
+    "descricao": "Recebi um e-mail que parece ser spam vindo de vocês, com uma promoção que eu não pedi. Podem verificar se a lista de e-mails está segura?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 38,
+    "titulo": "Problema com a ativação de um cupom de desconto",
+    "descricao": "Tentei usar um cupom de desconto que recebi, mas ele não foi aplicado na hora do pagamento. O valor não mudou.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 39,
+    "titulo": "Problema com o pixel do Facebook Ads",
+    "descricao": "O pixel do Facebook não está registrando as conversões corretamente. Nossas campanhas estão rodando sem otimização. Preciso que verifiquem a implementação urgente.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 40,
+    "titulo": "Dúvida sobre a política de privacidade",
+    "descricao": "Gostaria de saber mais sobre a política de privacidade e como meus dados são usados. Onde posso encontrar essa informação de forma clara?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 41,
+    "titulo": "Preciso de ajuda para entender um relatório",
+    "descricao": "Tem um relatório que eu gerei que não entendi muito bem. Os números não fazem sentido para mim. Podem me explicar?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 42,
+    "titulo": "Solicitação de prorrogação de vencimento",
+    "descricao": "Minha fatura vence amanhã e não consigo pagar. Gostaria de solicitar uma prorrogação de uns dias. É possível fazer isso?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 43,
+    "titulo": "Problema com a sincronização de dados",
+    "descricao": "Meus dados não estão sincronizando entre o aplicativo do celular e o desktop. O que eu faço em um não aparece no outro.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 44,
+    "titulo": "Lentidão do sistema e reclamações de clientes",
+    "descricao": "O sistema está muito lento hoje, e vários clientes estão reclamando que não conseguem usar. O suporte está recebendo muitas ligações. Parece que tem algo errado com a infraestrutura. Precisamos de uma solução urgente.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 45,
+    "titulo": "Fatura não chega no meu e-mail",
+    "descricao": "Não estou recebendo as faturas mensais no meu e-mail. Preciso delas para controle. Onde posso configurar para que cheguem corretamente?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 46,
+    "titulo": "Incompatibilidade com navegador Edge",
+    "descricao": "Alguns de nossos usuários que usam o navegador Edge estão relatando que o site não carrega direito, com elementos desalinhados. Em outros navegadores funciona. Precisa de uma correção de compatibilidade.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 47,
+    "titulo": "Dificuldade em usar nova funcionalidade e feedback para desenvolvimento",
+    "descricao": "A nova funcionalidade que lançaram é muito confusa, não consigo usar direito e já vi outros usuários com a mesma dificuldade. Acho que a usabilidade não está boa. Podem ver isso e talvez passar para o time de desenvolvimento?",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 48,
+    "titulo": "Lentidão excessiva na plataforma",
+    "descricao": "O sistema está super lento ultimamente, parece que tudo demora pra carregar. Clico em um menu e leva uns 10 segundos pra abrir a página. Tá impossível trabalhar assim.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 49,
+    "titulo": "Erro no cálculo de comissões e falha na integração",
+    "descricao": "O sistema está calculando as comissões dos vendedores de forma errada, e a integração com o nosso sistema de RH está falhando. Isso gera problemas financeiros e operacionais. Precisa de uma revisão urgente na lógica de cálculo e na integração.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 50,
+    "titulo": "Problema na API de pagamento e relatório financeiro",
+    "descricao": "A API de pagamento está dando erro 500 em algumas transações, e o pior é que o relatório financeiro não está batendo com as vendas reais. Parece que algumas transações estão sumindo. Isso é grave para o fluxo de caixa.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 51,
+    "titulo": "Problema com a visualização de histórico de faturas",
+    "descricao": "Não consigo ver o histórico completo das minhas faturas. A página só mostra as últimas três.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 52,
+    "titulo": "Erro ao carregar criativos em plataforma de anúncios",
+    "descricao": "Não consigo fazer upload de novos criativos (imagens/vídeos) na plataforma de anúncios. Ele dá erro de formato, mas são arquivos que sempre usei.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 53,
+    "titulo": "Dificuldade em gerenciar tags e categorias de conteúdo",
+    "descricao": "As tags e categorias do nosso blog estão uma bagunça. Não consigo organizar direito, nem adicionar novas. Isso afeta o SEO.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 54,
+    "titulo": "Preciso de ajuda para integrar com outra ferramenta",
+    "descricao": "Quero integrar o sistema de vocês com uma ferramenta que eu uso, mas não sei por onde começar. Tem algum guia?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 55,
+    "titulo": "Problema com voucher promocional e suporte ao cliente",
+    "descricao": "Um cliente reclamou que o voucher promocional que enviamos não funcionou na hora da compra, e ele não conseguiu finalizar o pedido. O suporte teve que intervir. Parece que há um problema na aplicação dos descontos e isso está gerando insatisfação e retrabalho para o suporte.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 56,
+    "titulo": "Erro no sistema de pagamento e relatório de vendas",
+    "descricao": "O sistema de pagamento está falhando em algumas transações e os relatórios de vendas não estão batendo com os valores reais que recebemos. Parece que tem um bug na integração do gateway. Isso está impactando o nosso faturamento e a contabilidade.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 57,
+    "titulo": "Não consigo redefinir minha senha",
+    "descricao": "Esqueci minha senha e o link de redefinição não está funcionando. Clico e não acontece nada, ou a página dá erro. Preciso acessar minha conta urgente.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 58,
+    "titulo": "Conteúdo do site não aparece corretamente em mobile",
+    "descricao": "Algumas páginas do nosso site estão completamente desconfiguradas quando acessadas por celular. O texto fica cortado e as imagens saem do lugar.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 59,
+    "titulo": "Fatura com valor incorreto",
+    "descricao": "Recebi minha fatura deste mês e o valor está maior do que o esperado. Não entendi a cobrança extra. Podem verificar o que aconteceu e corrigir?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 60,
+    "titulo": "Aumento repentino no valor da assinatura",
+    "descricao": "Minha assinatura aumentou de preço do nada, sem aviso prévio. Gostaria de entender o motivo e se posso voltar para o valor anterior. Fiquei surpreso.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 61,
+    "titulo": "Erro ao tentar efetuar pagamento via PIX",
+    "descricao": "Estou tentando pagar via PIX, mas o QR Code não funciona ou o sistema não reconhece o pagamento. Já tentei várias vezes. Não consigo finalizar.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 62,
+    "titulo": "Campanha de lançamento gerando bugs no site",
+    "descricao": "Toda vez que lançamos uma nova campanha de marketing, o site começa a apresentar bugs e lentidão, os clientes reclamam e o suporte fica sobrecarregado. Parece que o tráfego da campanha não está sendo bem gerenciado pela infra. Preciso que resolvam isso.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 63,
+    "titulo": "Problema com o limite de gastos da conta",
+    "descricao": "O limite de gastos da minha conta não foi atualizado, mesmo após a aprovação do meu pedido. Não consigo usar o serviço.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 64,
+    "titulo": "Promoção aplicada incorretamente no checkout",
+    "descricao": "Os clientes estão reclamando que um cupom de desconto de 20% que foi amplamente divulgado está aplicando apenas 10% no checkout. Isso está gerando insatisfação e perda de vendas.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 65,
+    "titulo": "Não consigo cancelar minha assinatura",
+    "descricao": "Estou tentando cancelar minha assinatura, mas não encontro a opção no painel. Onde fica? Não quero ser cobrado novamente. Me ajudem a cancelar.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 66,
+    "titulo": "Erro no cálculo de impostos na fatura",
+    "descricao": "Parece que os impostos na minha fatura estão sendo calculados de forma errada. O valor não bate com o que eu sei que deveria ser. Podem revisar?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 67,
+    "titulo": "Problema com pop-ups e banners no site",
+    "descricao": "Os pop-ups de promoção que configurei no site não estão aparecendo para os visitantes. Parece que foram desativados sozinhos.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 68,
+    "titulo": "Dúvida sobre cobrança indevida no extrato",
+    "descricao": "Recebi um email de um cliente questionando uma cobrança que ele não reconhece no extrato. Ele quer saber o que é e se pode ser estornado. Não sei como explicar.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 69,
+    "titulo": "Formulário de cadastro com bug e baixo engajamento",
+    "descricao": "O formulário de cadastro de novos usuários está com um bug que impede a finalização, e isso está impactando negativamente o engajamento que o marketing tenta criar. Os usuários desistem antes de se cadastrar. Precisamos arrumar isso para melhorar a aquisição.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 70,
+    "titulo": "Dificuldade em segmentar público para campanhas",
+    "descricao": "Estou tendo problemas para criar segmentos de público específicos. As opções de filtro são limitadas e não consigo atingir o público certo para minha campanha.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 71,
+    "titulo": "Problema com a conexão de redes sociais na plataforma",
+    "descricao": "As contas de redes sociais desconectaram da plataforma e não consigo reconectar. Não consigo agendar nada ou ver as métricas. Isso é um problemão pra gestão.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 72,
+    "titulo": "Bug na funcionalidade de upload de arquivos",
+    "descricao": "Não consigo mais fazer upload de arquivos no meu projeto. Ele fica carregando infinitamente e nunca completa. Já tentei com arquivos menores e nada, sempre trava.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 73,
+    "titulo": "Erro ao processar dados em lote",
+    "descricao": "Tentei processar um lote grande de dados e o sistema travou completamente. Precisei reiniciar tudo e perdi o que estava fazendo.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 74,
+    "titulo": "Conteúdo de e-mail marketing não aparece para alguns usuários",
+    "descricao": "Alguns clientes estão reclamando que o conteúdo dos e-mails de marketing não aparece, só o texto. As imagens e o layout estão quebrados. Isso prejudica a imagem da empresa.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 75,
+    "titulo": "Dúvida sobre como usar a função X",
+    "descricao": "Queria saber como faço pra usar a função de agendamento de tarefas. Não encontrei no tutorial e não entendi direito como funciona.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 76,
+    "titulo": "Problema com permissões de usuário",
+    "descricao": "Um dos meus colegas não consegue acessar uma área específica do sistema, mesmo tendo a permissão de administrador. Parece que o controle de acesso está com algum bug. Ele não consegue ver os relatórios.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 77,
+    "titulo": "Problema com a visualização de documentos",
+    "descricao": "Estou tentando visualizar uns documentos dentro da plataforma, mas eles não abrem ou aparecem em branco. Não consigo ver as informações. É um erro.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 78,
+    "titulo": "Problema com a exibição de dados no aplicativo móvel",
+    "descricao": "O aplicativo móvel não está mostrando os mesmos dados que a versão web. As informações estão desatualizadas. Qual dos dois está certo?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 79,
+    "titulo": "Erro ao salvar configurações de perfil",
+    "descricao": "Toda vez que tento mudar meu nome de usuário, o sistema dá um erro 500. Já tentei várias vezes e sempre a mesma coisa, não consigo atualizar nada. Parece que tem algo quebrado no backend.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 80,
+    "titulo": "Falha no envio de e-mails automáticos",
+    "descricao": "Nossos e-mails de confirmação de cadastro e recuperação de senha não estão sendo enviados. Os usuários estão com dificuldades. O sistema de e-mail transacional deve estar com problema.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 81,
+    "titulo": "Problema para alterar dados do perfil",
+    "descricao": "Estou tentando alterar meu endereço e telefone no perfil, mas o sistema não salva as mudanças. Fica dando erro. Não consigo atualizar minhas informações.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 82,
+    "titulo": "Relatório de tráfego orgânico com dados zero",
+    "descricao": "O relatório de tráfego orgânico no dashboard está mostrando zero visitas há dias, o que é impossível. Parece que a coleta de dados parou.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 83,
+    "titulo": "Problema com o método de pagamento",
+    "descricao": "Meu cartão de crédito cadastrado está dando erro na hora da cobrança. Gostaria de atualizá-lo, mas não consigo. Como faço para mudar o método de pagamento?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 84,
+    "titulo": "Problema com o link de rastreamento de URLs",
+    "descricao": "Os links de rastreamento que crio para as campanhas não estão sendo contados corretamente. Os cliques não aparecem nos relatórios. Não consigo medir a efetividade.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 85,
+    "titulo": "Solicitação de estorno de um pagamento duplicado",
+    "descricao": "Fiz um pagamento e o sistema cobrou duas vezes. Preciso que o valor excedente seja estornado o mais rápido possível.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 86,
+    "titulo": "SEO: meta tags não estão sendo atualizadas",
+    "descricao": "As meta tags que atualizei para SEO não estão aparecendo nos resultados de busca. Já faz uma semana. Parece que o sistema não está enviando as atualizações para os buscadores.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 87,
+    "titulo": "Dúvidas sobre o funcionamento da ferramenta e impacto em campanhas",
+    "descricao": "Estou com muitas dúvidas sobre como usar uma ferramenta nova que foi lançada, e isso está atrasando o lançamento da minha campanha de marketing. O tutorial não está claro. Preciso de um suporte mais aprofundado para não perder o timing.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 88,
+    "titulo": "Dúvida sobre os impostos na fatura",
+    "descricao": "Os impostos que estão sendo cobrados na minha fatura não batem com o que eu esperava. Queria entender a base de cálculo.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 89,
+    "titulo": "Usuários reclamando de lentidão e cancelando planos",
+    "descricao": "Muitos usuários estão entrando em contato reclamando que o sistema está lento e travando, e alguns já ameaçaram cancelar a assinatura. Isso está gerando um churn alto. Precisamos de uma solução técnica urgente pra estabilizar a plataforma.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 90,
+    "titulo": "Dúvida sobre reajuste anual de contrato",
+    "descricao": "Recebi um aviso de reajuste, mas não entendi os cálculos. Poderiam me explicar como foi feito o novo valor?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 91,
+    "titulo": "Não consigo fazer logout da minha conta",
+    "descricao": "O botão de logout não está funcionando. Já fechei o navegador, mas quando abro de novo, ainda estou logado.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 92,
+    "titulo": "Analytics com dados inconsistentes e problemas de cobrança",
+    "descricao": "Os dados no Google Analytics estão mostrando menos acessos do que o normal, e ao mesmo tempo, estou vendo cobranças extras na minha fatura que não batem com o uso. Preciso que vejam se o tracking tá certo e também os valores. Isso tá estranho.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 93,
+    "titulo": "Dados de campanha inconsistentes e dificuldades de acesso",
+    "descricao": "Os dados das minhas campanhas de marketing estão todos bagunçados, não batem com o que vejo nas plataformas. Além disso, estou tendo dificuldade para acessar o painel de controle. Preciso que vejam tanto a consistência dos dados quanto meu acesso.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 94,
+    "titulo": "API de integração com CRM está falhando",
+    "descricao": "Nossa integração com o Salesforce parou de funcionar do nada hoje. Os dados não estão sendo sincronizados, está dando erro de autenticação na API. Precisa verificar o que houve.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 95,
+    "titulo": "Servidor fora do ar intermitentemente",
+    "descricao": "Nosso site está caindo e voltando o tempo todo, já perdi várias vendas por causa disso. Os clientes estão reclamando que não conseguem acessar. Isso é urgente, por favor!",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 96,
+    "titulo": "Problema com o sistema de backup",
+    "descricao": "O sistema de backup automático parece não estar funcionando. Queria restaurar uma versão antiga e não consegui encontrar os arquivos.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 97,
+    "titulo": "Erro no sistema de faturamento automático",
+    "descricao": "O sistema de faturamento automático está com um problema sério. Ele não está gerando as faturas para os novos clientes e os pagamentos recorrentes estão falhando. Isso está causando um rombo na nossa receita.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 98,
+    "titulo": "Falha na conexão com banco de dados",
+    "descricao": "O sistema está exibindo mensagens de 'falha na conexão com o banco de dados' de vez em quando. Isso faz com que a aplicação fique indisponível. É um problema grave.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 99,
+    "titulo": "Falha na integração com ferramenta de email marketing",
+    "descricao": "A integração com nossa ferramenta de email marketing parou de funcionar. Os novos leads não estão sendo enviados automaticamente.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 100,
+    "titulo": "Dúvida sobre o plano de assinatura",
+    "descricao": "Quero saber qual a diferença entre o plano básico e o premium. Não ficou muito claro na página de preços. Qual vale mais a pena?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 101,
+    "titulo": "Erro no processamento de filas de tarefas",
+    "descricao": "As tarefas agendadas no sistema, tipo processar relatórios grandes, estão falhando ou demorando muito. Parece que a fila de processamento está travada. Isso afeta nossa produtividade.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 102,
+    "titulo": "Portal de autoatendimento com bug crítico",
+    "descricao": "Os clientes estão reclamando que o portal de autoatendimento está com um bug na seção de \"Perguntas Frequentes\". As respostas não aparecem quando clicam e o botão de contato direto também não funciona direito. Isso está gerando mais chamados.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 103,
+    "titulo": "Pagamento recusado sem motivo aparente",
+    "descricao": "Tentei fazer um pagamento com meu cartão de crédito, que tem limite, e foi recusado. Não recebi nenhuma explicação.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 104,
+    "titulo": "Fluxo de automação de marketing não dispara",
+    "descricao": "Configurei um fluxo de automação para novos cadastros, mas ele não está disparando os e-mails. Ninguém está recebendo a sequência. Preciso que funcione.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 105,
+    "titulo": "Não consigo mudar meu email de login",
+    "descricao": "Estou tentando mudar o email que uso para fazer login, mas o sistema não permite. Dá um erro genérico.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 106,
+    "titulo": "Erro ao agendar postagens nas redes sociais",
+    "descricao": "A ferramenta de agendamento de posts para redes sociais está dando erro e não consigo programar nada. Isso atrapalha muito o planejamento. Preciso que resolvam isso logo.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 107,
+    "titulo": "Falha na integração com sistema de terceiros",
+    "descricao": "A integração com nosso sistema de contabilidade externo parou de sincronizar os dados. Aparentemente, o token expirou ou algo assim. Preciso que vejam isso urgente.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 108,
+    "titulo": "Não consigo atualizar meu método de pagamento",
+    "descricao": "Estou tentando mudar meu cartão de crédito, mas o sistema não aceita as novas informações. Dá um erro genérico.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 109,
+    "titulo": "Como faço para convidar um novo membro para a equipe?",
+    "descricao": "Preciso adicionar um novo membro à minha equipe na plataforma. Não sei onde fica a opção para convidar. Podem me ajudar com isso?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 110,
+    "titulo": "Dúvida sobre a política de reembolso",
+    "descricao": "Queria entender como funciona a política de reembolso de vocês. Em quais situações posso pedir um estorno?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 111,
+    "titulo": "Meu pagamento não foi processado",
+    "descricao": "Fiz o pagamento da minha fatura, mas o status ainda aparece como pendente. Já se passaram 3 dias. Podem verificar se foi compensado?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 112,
+    "titulo": "Usuários reclamando de lentidão no acesso",
+    "descricao": "Meus clientes estão ligando e reclamando que o site está muito lento, às vezes nem carrega direito. Isso está impactando o uso e a satisfação deles. Preciso de uma solução rápida.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 113,
+    "titulo": "Esqueci minha senha e não recebo e-mail de recuperação",
+    "descricao": "Cliquei em 'esqueci minha senha', mas o e-mail de recuperação não chega na minha caixa de entrada. Já olhei no spam e nada. Não consigo acessar minha conta.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 114,
+    "titulo": "Problema com formulário de captação de leads",
+    "descricao": "O formulário de captação de leads na nossa landing page não está enviando os dados para a lista correta. Os leads estão sumindo.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 115,
+    "titulo": "Problema com o pagamento via boleto",
+    "descricao": "Gerei um boleto para pagamento, mas ele não está sendo reconhecido pelo banco. Já tentei pagar duas vezes e dá erro.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 116,
+    "titulo": "Email marketing não está sendo enviado",
+    "descricao": "Configurei uma campanha de email, mas os emails não estão saindo. A ferramenta mostra como enviado, mas ninguém recebeu. Isso está atrasando o lançamento da promoção.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 117,
+    "titulo": "Problema na criação de automação de marketing",
+    "descricao": "Estou tentando criar uma nova automação para onboarding de clientes, mas o fluxo não está salvando. Dá um erro genérico toda hora.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 118,
+    "titulo": "Dificuldade em configurar campanhas de retargeting",
+    "descricao": "As campanhas de retargeting não estão sendo configuradas corretamente. O público não está sendo segmentado como deveria.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 119,
+    "titulo": "Erro ao salvar formulário de contato",
+    "descricao": "Toda vez que tento salvar um formulário de contato novo, dá um erro genérico 'falha na operação'. Já tentei várias vezes e não vai. Preciso que isso seja corrigido logo, meus leads estão se perdendo.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 120,
+    "titulo": "Relatórios de ROI estão confusos e valores errados",
+    "descricao": "Os relatórios de ROI das campanhas não fazem sentido, os números estão todos bagunçados e não batem com o que gastamos. Preciso que vejam isso, porque o financeiro está me cobrando os resultados e não consigo justificar os gastos.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 121,
+    "titulo": "Não consigo acessar meus documentos salvos",
+    "descricao": "Salvei uns documentos importantes ontem e hoje eles simplesmente sumiram. Não consigo encontrá-los em lugar nenhum na minha conta.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 122,
+    "titulo": "Problema de performance no dashboard de admin",
+    "descricao": "O dashboard de administrador está muito lento, leva uma eternidade pra carregar os gráficos e relatórios. Isso atrapalha muito nosso dia a dia. Tem como otimizar isso?",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 123,
+    "titulo": "Lentidão ao carregar páginas específicas",
+    "descricao": "Algumas páginas do nosso portal estão demorando muito pra carregar, tipo a página de produtos. Isso impacta a experiência do usuário e nossa taxa de conversão. Tem como dar uma olhada no código?",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 124,
+    "titulo": "Bug de cadastro afeta fluxo de onboarding",
+    "descricao": "Tem um bug no processo de cadastro que impede alguns usuários de finalizar, e isso está gerando muitos chamados no suporte. Eles reclamam que a tela trava. Precisamos arrumar isso para melhorar a experiência e diminuir o volume de tickets.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 125,
+    "titulo": "Promoção do site não está aparecendo",
+    "descricao": "Vários usuários estão perguntando sobre uma promoção que viram no anúncio, mas não encontram no site. Parece que a promoção não está ativa ou visível pra eles.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 126,
+    "titulo": "Erro na aplicação de desconto promocional e reclamações",
+    "descricao": "Lançamos uma nova promoção, mas o código de desconto não está sendo aplicado corretamente no checkout. Vários clientes já reclamaram no suporte. Isso está causando frustração e perda de vendas. Precisamos de uma correção urgente no sistema de cupons.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 127,
+    "titulo": "Problema de performance com relatórios de campanha",
+    "descricao": "Os relatórios de desempenho das campanhas de marketing estão demorando uma eternidade para carregar, e às vezes nem abrem. Isso atrapalha a otimização das campanhas e a tomada de decisões. Parece que o sistema não está dando conta de processar os dados.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 128,
+    "titulo": "Site lento afetando taxa de conversão",
+    "descricao": "Nosso site está muito lento, e isso está impactando diretamente na taxa de conversão das campanhas. Os usuários abandonam a página antes de finalizar. Precisamos otimizar a performance URGENTE.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 129,
+    "titulo": "Problema com o sistema de logging",
+    "descricao": "Não consigo acessar os logs de atividades recentes da minha conta. A página de logs fica em branco. Preciso verificar o que foi feito.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 130,
+    "titulo": "Como faço para trocar meu e-mail de cadastro?",
+    "descricao": "Preciso trocar o e-mail que uso para acessar minha conta. Não encontrei a opção no sistema. Podem me guiar no processo?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 131,
+    "titulo": "Falha na exportação de dados para CSV",
+    "descricao": "Quando tento exportar a lista de clientes para CSV, o arquivo vem corrompido ou vazio. Já tentei de várias formas e nada. Preciso desses dados pra ontem.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 132,
+    "titulo": "Erro ao criar novos pop-ups no site",
+    "descricao": "Estou tentando criar um novo pop-up para capturar e-mails, mas o sistema está dando erro ao salvar. Não consigo lançar minhas promoções. Preciso de ajuda.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 133,
+    "titulo": "Erro na página de preços e dados de contato",
+    "descricao": "A página de preços está mostrando valores errados para alguns planos, e o pior é que o formulário de contato para dúvidas não está funcionando. Os clientes não conseguem tirar dúvidas sobre os planos. Isso tá atrapalhando as vendas e gerando reclamações.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 134,
+    "titulo": "Mensagens de erro confusas no formulário de contato",
+    "descricao": "O formulário de contato do site está exibindo mensagens de erro muito genéricas e confusas quando o usuário tenta enviar. Isso está afastando os potenciais clientes e gerando dúvidas para o suporte.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 135,
+    "titulo": "Campanha de email com promo code não funcionando",
+    "descricao": "Lançamos uma campanha grande de email com um código promocional, mas os clientes estão reclamando que o código não está sendo aplicado no checkout. Isso vai dar um prejuízo enorme e a galera está brava.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 136,
+    "titulo": "Problema com o chat de suporte",
+    "descricao": "O chat de suporte não está funcionando, não consigo iniciar uma conversa. Preciso falar com alguém urgentemente. A janela não abre.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 137,
+    "titulo": "Dificuldade para organizar meus projetos",
+    "descricao": "Minha área de projetos está uma bagunça. Não consigo organizar as pastas direito e fica tudo misturado.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 138,
+    "titulo": "Problemas de acesso e faturas atrasadas",
+    "descricao": "Não consigo acessar a minha conta há dias, e agora recebi um aviso de fatura atrasada. Não sei nem como pagar se não consigo entrar. Preciso de ajuda para acessar e resolver essa pendência financeira.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 139,
+    "titulo": "Falha na autenticação via SSO",
+    "descricao": "Nossa autenticação Single Sign-On (SSO) parou de funcionar. Ninguém consegue fazer login pelo portal da empresa. Isso é crítico.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 140,
+    "titulo": "Formulário de captura de leads não funciona",
+    "descricao": "O formulário de captura de leads na minha página principal não está enviando as informações. Os leads estão sumindo. Isso é crucial para minhas campanhas. Preciso que consertem.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 141,
+    "titulo": "Erro ao tentar pagar a fatura",
+    "descricao": "Um cliente está tentando pagar a fatura dele, mas o sistema está dando um erro no processamento do cartão. Ele já tentou vários cartões e não consegue. Preciso de ajuda pra ele pagar.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 142,
+    "titulo": "Problema com permissões de usuário",
+    "descricao": "Usuários com perfil de 'Editor' não conseguem acessar certas áreas que deveriam, enquanto outros com o mesmo perfil conseguem. As permissões estão bagunçadas. Preciso de um ajuste.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 143,
+    "titulo": "Dúvida sobre o tempo de resposta do suporte",
+    "descricao": "Enviei um ticket há dois dias e ainda não tive resposta. Qual o tempo médio de resposta? Preciso de uma solução rápida para meu problema.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 144,
+    "titulo": "Erro 500 ao tentar acessar relatórios",
+    "descricao": "Sempre que clico para ver os relatórios de vendas, aparece um erro 500. Não consigo acessar nenhuma informação importante. Isso está me impedindo de tomar decisões.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 145,
+    "titulo": "Dúvida sobre a política de reajuste anual",
+    "descricao": "Gostaria de entender como funciona o reajuste anual dos planos. Qual o índice utilizado e quando ele é aplicado? Preciso me planejar para o próximo ano.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 146,
+    "titulo": "Problema com a segmentação de público em campanhas",
+    "descricao": "A segmentação de público nas campanhas de e-mail não está funcionando. Estou enviando e-mails para pessoas que não deveriam receber. Isso queima a lista. Preciso de um ajuste.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 147,
+    "titulo": "Preciso alterar a data de vencimento da fatura",
+    "descricao": "Gostaria de mudar a data de vencimento da minha fatura para o dia 15 de cada mês. É possível fazer essa alteração?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 148,
+    "titulo": "Pixel de conversão com erro e dados inconsistentes",
+    "descricao": "O pixel de conversão do Google Ads não está registrando as vendas, e os números na plataforma de anúncios não batem com o que o sistema de vendas mostra. Parece que tem um bug na implementação e o marketing não consegue otimizar as campanhas. Isso é urgente.",
+    "departamento_real": "Marketing",
+    "ambiguo": true
+  },
+  {
+    "id": 149,
+    "titulo": "Problema com a criação de landing pages",
+    "descricao": "O editor de landing pages está muito lento e travando. Não consigo arrastar os elementos direito e as imagens não carregam. Está difícil criar as páginas para as campanhas.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 150,
+    "titulo": "Scripts externos não carregando no site",
+    "descricao": "Alguns scripts de terceiros, como os de rastreamento de analytics, não estão carregando. Isso prejudica nossas métricas. Parece que tem algum bloqueio no servidor.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 151,
+    "titulo": "Minha notificação de e-mail não chegou",
+    "descricao": "Deveria ter recebido uma notificação por e-mail sobre uma atualização, mas não chegou nada. Não sei se perdi alguma informação importante. Podem verificar?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 152,
+    "titulo": "Bug na funcionalidade de busca interna",
+    "descricao": "A busca interna do site não está retornando resultados corretos, ou às vezes não retorna nada. Isso frustra muito quem tenta achar algo. Parece que o índice está quebrado.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 153,
+    "titulo": "Dúvida sobre o período de trial",
+    "descricao": "Estou no período de trial e queria saber como funciona a transição para o plano pago. Serei cobrado automaticamente?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 154,
+    "titulo": "Erro de validação em formulário complexo",
+    "descricao": "Estou preenchendo um formulário grande e ele sempre me dá um erro de validação genérico no final. Não diz qual campo está errado, só \"ocorreu um erro\". Muito frustrante.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 155,
+    "titulo": "Problema com as notificações push",
+    "descricao": "As notificações push do aplicativo pararam de aparecer no meu celular. Já verifiquei as configurações e está tudo ativado.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 156,
+    "titulo": "Problema com o editor de texto rico",
+    "descricao": "O editor de texto rico para criar conteúdo está com problemas. Não consigo formatar o texto direito, nem inserir imagens. As opções não funcionam.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 157,
+    "titulo": "Problema com o limite de uso do plano",
+    "descricao": "Atingi o limite de uso do meu plano antes do esperado e fui cobrado por excedente. Não entendi como cheguei a esse limite. Podem explicar?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 158,
+    "titulo": "Publicação agendada no social media falhou",
+    "descricao": "Agendei uma postagem importante para as redes sociais e ela não foi publicada. A ferramenta diz que foi, mas não apareceu no feed. Perdi o timing da campanha.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 159,
+    "titulo": "Problema com o sistema de notificações push",
+    "descricao": "As notificações push não estão chegando nos usuários, mesmo aqueles que aceitaram. Isso é essencial para engajamento. A integração do sistema de push deve estar com erro.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 160,
+    "titulo": "Landing page com problemas de carregamento",
+    "descricao": "Minha nova landing page para a campanha de lançamento está demorando muito pra carregar, e as imagens não aparecem direito. Isso afeta diretamente a conversão. Tem como otimizar isso?",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 161,
+    "titulo": "Erro ao anexar arquivo no ticket de suporte",
+    "descricao": "Estou tentando anexar um print do problema no meu ticket, mas o sistema não permite. O botão de anexar não funciona. Não consigo mostrar o erro.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 162,
+    "titulo": "Fatura do mês passado com valor errado",
+    "descricao": "A fatura que recebi este mês veio com um valor a mais. Não entendi a cobrança extra. Poderiam verificar e corrigir isso?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 163,
+    "titulo": "Falha na visualização de relatórios personalizados",
+    "descricao": "Os relatórios que eu criei e salvei não estão sendo carregados corretamente. As tabelas aparecem vazias ou com dados errados.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 164,
+    "titulo": "Preciso de um relatório detalhado de despesas",
+    "descricao": "Minha empresa precisa de um relatório com todas as despesas dos últimos 6 meses para auditoria. Onde consigo isso?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 165,
+    "titulo": "Não consigo fazer login na minha conta",
+    "descricao": "Tentei entrar na minha conta várias vezes e sempre dá 'usuário ou senha inválidos'. Já resetei a senha e mesmo assim não consigo. Preciso acessar minhas informações urgentes.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 166,
+    "titulo": "Problema com o boleto bancário",
+    "descricao": "O boleto que gerei para pagamento está com a data de vencimento errada ou não consigo pagá-lo no banco. Dá erro de leitura. Podem gerar outro?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 167,
+    "titulo": "Erro 404 ao acessar certas páginas",
+    "descricao": "Algumas páginas dentro do meu painel de controle estão dando erro 404, como se não existissem. Mas elas estavam lá antes.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 168,
+    "titulo": "Editor de blog com falhas de formatação",
+    "descricao": "Ao tentar criar um novo post no blog, o editor está aplicando formatações estranhas e não consigo controlar os estilos. O texto fica todo desorganizado.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 169,
+    "titulo": "Problema de login e impacto nas campanhas",
+    "descricao": "Vários clientes estão reclamando que não conseguem fazer login, e isso está atrapalhando as campanhas de marketing que exigem login para acessar o conteúdo exclusivo. O volume de chamados de suporte está alto por causa disso. Precisa de uma correção rápida.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 170,
+    "titulo": "Problema com cálculo de impostos na compra",
+    "descricao": "Na hora de finalizar a compra, o sistema está calculando os impostos de forma errada para alguns estados. Isso está causando problemas com os clientes e com a contabilidade. Parece um erro na regra de negócio implementada.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 171,
+    "titulo": "Preciso de ajuda para configurar meu perfil",
+    "descricao": "Estou com dificuldade para configurar meu perfil, especialmente a parte de notificações. Não sei onde mudo e como salvo.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 172,
+    "titulo": "Relatório de palavras-chave do SEO está vazio",
+    "descricao": "O relatório que mostra as palavras-chave que estamos ranqueando está sempre vazio. Não consigo monitorar nosso desempenho. Preciso desses dados para otimizar.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 173,
+    "titulo": "Erro de validação em campo de CPF/CNPJ",
+    "descricao": "O campo de CPF/CNPJ está dando erro de validação mesmo com números corretos. Não consigo cadastrar novos usuários por causa disso. É um bug que precisa ser visto.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 174,
+    "titulo": "Relatório de vendas com discrepâncias financeiras",
+    "descricao": "O relatório de vendas que gero para o financeiro tem valores que não batem com o extrato bancário. Há uma diferença grande entre o que o sistema registra e o que de fato entrou. Parece um erro na base de dados ou no cálculo.",
+    "departamento_real": "Financeiro",
+    "ambiguo": true
+  },
+  {
+    "id": 175,
+    "titulo": "Erro ao importar lista de contatos",
+    "descricao": "Tentei importar uma nova lista de contatos para minha campanha de email, mas o sistema deu erro e não importou nada. Preciso dessa lista.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 176,
+    "titulo": "Erro ao criar novo projeto",
+    "descricao": "Toda vez que tento criar um novo projeto, o sistema dá uma mensagem de erro genérica e não salva. Já tentei mudar os nomes, mas não adianta.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 177,
+    "titulo": "Problema com o mapa de calor da página",
+    "descricao": "A ferramenta de mapa de calor não está registrando os cliques e movimentos dos usuários na página. Não consigo analisar o comportamento.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 178,
+    "titulo": "Problema para adicionar novos membros à equipe",
+    "descricao": "Estou tentando adicionar um novo membro à minha equipe, mas o convite não está sendo enviado. Já tentei de novo e nada.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 179,
+    "titulo": "Problema com o cache da aplicação",
+    "descricao": "As alterações que faço no conteúdo não aparecem imediatamente no site, parece que o cache não está limpando direito. Fica mostrando a versão antiga por um tempão. É bem chato isso.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 180,
+    "titulo": "Minha assinatura foi cancelada sem aviso",
+    "descricao": "Minha assinatura foi cancelada do nada, sendo que a fatura estava paga em dia. O que aconteceu? Preciso reativar.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 181,
+    "titulo": "Não consigo visualizar um histórico de atividades",
+    "descricao": "Queria ver o que eu fiz na plataforma nos últimos dias, mas não acho onde fica o histórico de atividades da minha conta.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 182,
+    "titulo": "Ferramenta de análise de concorrência não atualiza",
+    "descricao": "Nossa ferramenta de análise de concorrência não está atualizando os dados. As informações estão defasadas. Preciso de dados em tempo real para nossas estratégias.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 183,
+    "titulo": "Problema com a integração de calendário",
+    "descricao": "A integração com meu calendário (Google Calendar) não está funcionando. Os eventos não sincronizam. Preciso que isso seja corrigido.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 184,
+    "titulo": "Dúvida sobre a política de privacidade",
+    "descricao": "Queria entender melhor como meus dados são usados. Onde encontro a política de privacidade de vocês?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 185,
+    "titulo": "Integração com Google Analytics não funciona",
+    "descricao": "Os dados do Google Analytics não estão aparecendo no nosso dashboard. Verifiquei a conexão e parece tudo certo, mas os relatórios estão vazios. Preciso dessas métricas.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 186,
+    "titulo": "Extrato de pagamentos com falhas",
+    "descricao": "O extrato de pagamentos na minha conta não está mostrando todas as transações. Faltam alguns pagamentos que eu fiz.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 187,
+    "titulo": "Erro na integração de pixel de rastreamento",
+    "descricao": "O pixel de rastreamento do Facebook não está coletando dados no nosso site. Já verifiquei a instalação, mas parece que algo no código do site está bloqueando. Isso impacta todas as nossas campanhas.",
+    "departamento_real": "Engenharia",
+    "ambiguo": true
+  },
+  {
+    "id": 188,
+    "titulo": "Dúvida sobre como usar uma funcionalidade",
+    "descricao": "Gostaria de saber como faço para usar a funcionalidade X. Não encontrei no tutorial e não sei onde clicar. Podem me ajudar com um passo a passo?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 189,
+    "titulo": "Minha conta está bloqueada",
+    "descricao": "Tentei fazer login várias vezes e agora minha conta está bloqueada. Não sei o que aconteceu. Podem me ajudar a desbloquear, por favor?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 190,
+    "titulo": "Solicitação de estorno/reembolso",
+    "descricao": "Fiz uma compra por engano e gostaria de solicitar o estorno do valor. Onde posso fazer isso? Já se passaram alguns dias da compra.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 191,
+    "titulo": "Onde posso enviar sugestões de melhoria?",
+    "descricao": "Tenho algumas ideias para melhorar a plataforma. Tem algum lugar onde eu possa deixar minhas sugestões?",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  },
+  {
+    "id": 192,
+    "titulo": "Recorrência de um bug que afeta o financeiro",
+    "descricao": "Estou com um problema recorrente onde o sistema calcula errado o valor total das minhas vendas, e isso está impactando minhas faturas. Já abri vários tickets, mas o erro sempre volta. Preciso de uma solução definitiva, pois está afetando meu financeiro.",
+    "departamento_real": "Suporte",
+    "ambiguo": true
+  },
+  {
+    "id": 193,
+    "titulo": "Busca interna do sistema não funciona",
+    "descricao": "A busca dentro da plataforma não está retornando resultados relevantes. Mesmo procurando por termos exatos, ela não encontra o que preciso.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 194,
+    "titulo": "Cobrança de serviço que não utilizei",
+    "descricao": "Recebi uma cobrança por um serviço que eu não contratei nem utilizei. Poderiam verificar essa cobrança indevida?",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 195,
+    "titulo": "Falha na exibição de gráficos de performance",
+    "descricao": "Os gráficos de performance do meu dashboard não estão carregando. Fica só um espaço em branco onde deveria ter os dados. Preciso desses gráficos pra tomar decisões.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 196,
+    "titulo": "Não consigo acessar minhas notas fiscais",
+    "descricao": "Preciso das minhas notas fiscais dos últimos meses para a contabilidade, mas não consigo baixar no sistema. Onde encontro? É urgente para o fechamento.",
+    "departamento_real": "Financeiro",
+    "ambiguo": false
+  },
+  {
+    "id": 197,
+    "titulo": "Notificações por email não estão sendo enviadas",
+    "descricao": "As notificações importantes que deveriam chegar por email não estão vindo. Perdi um prazo por causa disso. O sistema diz que enviou, mas não recebi nada.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 198,
+    "titulo": "Bug na funcionalidade de upload de arquivos",
+    "descricao": "Estou tentando fazer upload de uns arquivos grandes e o sistema trava toda hora. Já tentei arquivos menores e também não vai. Não consigo anexar nada importante.",
+    "departamento_real": "Engenharia",
+    "ambiguo": false
+  },
+  {
+    "id": 199,
+    "titulo": "Discrepância nos relatórios de campanha de anúncios",
+    "descricao": "Os relatórios de desempenho das campanhas de anúncios não batem com os números da plataforma. Isso dificulta muito a otimização e a tomada de decisão. Precisamos de dados mais precisos pra marketing.",
+    "departamento_real": "Marketing",
+    "ambiguo": false
+  },
+  {
+    "id": 200,
+    "titulo": "Dúvida sobre planos e preços",
+    "descricao": "Gostaria de saber mais sobre os planos disponíveis e os preços. Qual a diferença entre o plano básico e o premium? Não entendi muito bem no site.",
+    "departamento_real": "Suporte",
+    "ambiguo": false
+  }
+]
