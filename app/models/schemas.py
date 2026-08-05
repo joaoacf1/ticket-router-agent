@@ -1,4 +1,5 @@
 from datetime import datetime
+from typing import Optional
 from pydantic import BaseModel, ConfigDict
 
 class TicketCreate(BaseModel):
@@ -12,4 +13,6 @@ class TicketResponse(BaseModel):
     title: str
     description: str
     status: str
+    department: Optional[str] = None
+    confidence: Optional[float] = None
     created_at: datetime
