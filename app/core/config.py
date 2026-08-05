@@ -11,5 +11,8 @@ class Settings(BaseSettings):
     GEMINI_API_KEY: str = ""
     QDRANT_API_KEY: str = ""
     QDRANT_CLUSTER_ENDPOINT: str = ""
+    LANGFUSE_SECRET_KEY: str = ""
+    LANGFUSE_PUBLIC_KEY: str = ""
+    LANGFUSE_BASE_URL: str = "https://cloud.langfuse.com"
 
 settings = Settings()

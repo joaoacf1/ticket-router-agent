@@ -1,5 +1,6 @@
 from datetime import datetime
-from sqlalchemy import Integer, String, Text, DateTime
+from typing import Optional
+from sqlalchemy import Integer, String, Text, DateTime, Float
 from sqlalchemy.orm import Mapped, mapped_column
 from sqlalchemy.sql import func
 from app.db.base import Base
@@ -11,6 +12,8 @@ class DBTicket(Base):
     title: Mapped[str] = mapped_column(String(255), nullable=False)
     description: Mapped[str] = mapped_column(Text, nullable=False)
     status: Mapped[str] = mapped_column(String(50), default="received", nullable=False)
+    department: Mapped[Optional[str]] = mapped_column(String(50), nullable=True)
+    confidence: Mapped[Optional[float]] = mapped_column(Float, nullable=True)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True),
         server_default=func.now(),
